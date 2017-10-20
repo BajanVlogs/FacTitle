@@ -15,7 +15,7 @@ use pocketmine\Player;
 
 
 
-use NidPlays\FacTitle\Main;
+use BajanVlogs\FacTitle\Main;
 
 
 
